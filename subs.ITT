@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+          <tt
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="http://www.w3.org/ns/ttml"
+            xmlns:tt="http://www.w3.org/ns/ttml"
+            xmlns:tts="http://www.w3.org/ns/ttml#styling"
+            xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+            xml:lang="en-GB"
+            ttp:timeBase="smpte"
+            ttp:frameRate="25"
+            ttp:frameRateMultiplier="1 1"
+            ttp:dropMode="nonDrop"
+          >
+          <head>
+            <styling>
+              <style
+                xml:id="normal"
+                tts:fontFamily="sansSerif"
+                tts:fontWeight="normal"
+                tts:fontStyle="normal"
+                tts:color="white"
+                tts:fontSize="100%"
+              />
+            </styling>
+            <layout>
+              <region
+                xml:id="bottom"
+                tts:origin="0% 85%"
+                tts:extent="100% 15%"
+                tts:textAlign="center"
+                tts:displayAlign="after"
+              />
+            </layout>
+          </head>
+          <body style="normal" region="bottom">
+            <div begin="-01:00:00:00"><p begin="01:00:01:07" end="01:00:08:19">This is a brief video on a type of<br />a toxic sore tailbone injury that</p>\n
+<p begin="01:00:08:19" end="01:00:13:21">causes the tailbone to be<br />stuck in a side vent position.</p>\n
+<p begin="01:00:15:08" end="01:00:22:02">On each side of the tailbone which<br />is at the bottom of the sacrum.</p>\n
+<p begin="01:00:22:21" end="01:00:24:06"></p>\n
+<p begin="01:00:26:10" end="01:00:30:13">The tailbone is found and it's<br />comprised of four</p>\n
+<p begin="01:00:30:17" end="01:00:33:00"></p>\n
+<p begin="01:00:33:06" end="01:00:37:09">They will fuse together but retained<br />some Mobility where they connect with</p>\n
+<p begin="01:00:37:09" end="01:00:43:09">the sacrum and a traumatic injury<br />such as a fall on onto your sit bones</p>\n
+<p begin="01:00:43:22" end="01:00:49:17">falling on one side may cause it to<br />get stuck in a bent position bent to</p>\n
+<p begin="01:00:49:17" end="01:00:58:18">one side and that happens you can<br />find that if you palpate with your</p>\n
+<p begin="01:00:58:18" end="01:01:02:16">fingertips on both sides, you'll<br />notice that unwinds the one side</p>\n
+<p begin="01:01:02:16" end="01:01:09:16">there's a deeper sulcus and that is<br />if its side bent to the right then</p>\n
+<p begin="01:01:09:24" end="01:01:11:06"></p>\n
+<p begin="01:01:12:10" end="01:01:17:07">On this transverse process early,<br />where's on the other side?</p>\n
+<p begin="01:01:17:07" end="01:01:25:03">There's a deeper a wider Feltes and<br />one would think that if one has an</p>\n
+<p begin="01:01:25:03" end="01:01:29:19">injury and it causes that tailbone to<br />be bent to one side one would think</p>\n
+<p begin="01:01:29:21" end="01:01:34:11">that treatment would involve directly<br />pushing it back in the direction</p>\n
+<p begin="01:01:34:11" end="01:01:39:05">where it belongs and that is at times<br />true.</p>\n
+<p begin="01:01:39:20" end="01:01:43:11">But other times if the injury<br />involves the whole pelvis and</p>\n
+<p begin="01:01:43:11" end="01:01:48:05">there's a whole twisting mechanism that<br />occurs throughout the hip joints and</p>\n
+<p begin="01:01:48:05" end="01:01:53:12">the sacroiliac joints involving a<br />whole pelvis than these large</p>\n
+<p begin="01:01:53:12" end="01:02:01:10">ligaments that connect the pelvic<br />bones to the sacrum and coccyx as</p>\n
+<p begin="01:02:01:10" end="01:02:06:16">well those become involved and it<br />because it becomes very difficult</p>\n
+<p begin="01:02:08:20" end="01:02:15:22">large forces that are maintaining the<br />The tailbone in a side vent position</p>\n
+<p begin="01:02:16:08" end="01:02:20:08">and a nose examples, you have to<br />treat that twisting pattern</p>\n
+<p begin="01:02:20:09" end="01:02:21:14"></p>\n
+<p begin="01:02:22:05" end="01:02:26:23">There's a pattern that I've<br />discovered and described and develops</p>\n
+<p begin="01:02:26:23" end="01:02:29:05"></p>\n
+<p begin="01:02:30:16" end="01:02:35:15">Windswept pelvis and that's a pattern<br />in which your five different things</p>\n
+<p begin="01:02:35:15" end="01:02:40:19">that you need to do to create balance<br />in the hips and the sit bones in the</p>\n
+<p begin="01:02:40:19" end="01:02:47:18">sacroiliac joints prior to reducing<br />the side vent fixation of the coccyx.</p>\n
+<p begin="01:02:48:13" end="01:02:55:02">So I think that that's serves as a<br />nice introduction into the type of</p>\n
+<p begin="01:02:55:02" end="01:03:02:05">tailbone injury that is named side<br />vent fixation and there are other</p>\n
+<p begin="01:03:02:05" end="01:03:07:06">types of injuries such as a backward<br />bent coccyx that the delivery of a</p>\n
+<p begin="01:03:07:18" end="01:03:15:19">large baby and fall on the tailbone<br />can cause it to flex forward and</p>\n
+<p begin="01:03:16:03" end="01:03:22:05">sometimes one of these statements<br />will separate and that can be named a</p>\n
+<p begin="01:03:22:06" end="01:03:27:00">fractured coccyx when in fact, it's<br />actually a separation of a joint.</p>\n
+<p begin="01:03:27:21" end="01:03:30:00">But another left that's what they<br />call it.</p>\n
+<p begin="01:03:30:14" end="01:03:33:22">So this concludes my discussion and<br />there's a couple of</p>\n
+<p begin="01:03:33:22" end="01:03:35:11"></p>\n
+<p begin="01:03:35:12" end="01:03:42:19">I posted on the subject of coccyx<br />pain coccyx joint dysfunction and</p>\n
+<p begin="01:03:42:23" end="01:03:48:08">also on the pattern which I<br />named lower Windswept pelvis.</p>\n
+<p begin="01:03:48:20" end="01:03:49:13"></p>\n
+</div>
+</body>
+</tt>
