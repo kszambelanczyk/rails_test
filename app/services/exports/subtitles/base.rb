@@ -19,6 +19,11 @@ module Exports
         tempfile.write export_body.force_encoding(Encoding::UTF_8)
         tempfile.rewind
 
+        # # coping to local file for file inspection 
+        # f = File.new("subs.#{@format}", "w")
+        # f.write tempfile.read
+        # f.close
+
         tempfile
       end
 

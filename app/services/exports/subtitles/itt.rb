@@ -2,7 +2,7 @@ module Exports
   module Subtitles
     class Itt < Base
 
-      def initialize(lang: 'en-GB', fps: 25, **args)
+      def initialize(lang: "en-GB", fps: 25, **args)
         super(**args, format: :ITT)
         @lang = lang
         @fps = fps
