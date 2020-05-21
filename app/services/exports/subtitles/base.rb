@@ -36,22 +36,22 @@ module Exports
           formatted_timecode(cue['end'], separator)
         ].join(' --> ')
       end
+
       # Example: 2.16 => 00:00:02,160
- 
-      def formatted_timecode(time, separator)
+      def formatted_timecode(time, separator, ms_len = 3 )
         decimal_seconds, = time.to_s.split(':').reverse
-        decimal_seconds = decimal_seconds.to_f.round(3).to_s
+        decimal_seconds = decimal_seconds.to_f.round(ms_len).to_s
         seconds, milliseconds = decimal_seconds.split('.')
-        milliseconds << '0' * [3 - milliseconds.length, 0].max
         [
           seconds_to_time(seconds.to_i),
-          formatted_milliseconds(milliseconds)
+          milliseconds << '0' * [ms_len - milliseconds.length, 0].max
+          # formatted_milliseconds(milliseconds)
         ].join separator
       end
  
-      def formatted_milliseconds(milliseconds)
-        milliseconds << '0' * [3 - milliseconds.length, 0].max
-      end
+      # def formatted_milliseconds(milliseconds)
+      #   milliseconds << '0' * [3 - milliseconds.length, 0].max
+      # end
  
       def seconds_to_time(seconds)
         [seconds / 3600, seconds / 60 % 60, seconds % 60].map { |t| t.to_s.rjust(2, '0') }.join(':')
